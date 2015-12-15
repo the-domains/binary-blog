@@ -1,0 +1,28 @@
+name: Binary Blog
+favicon: null
+layout_spectrum: 0.33097548387013376
+typography_spectrum: 0.8371074427850544
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.36882454552687705
+  lightness: 0.6847520598676056
+  saturation: 0.3232231601141393
+  rhythmicContrast: 0.23777704034000635
+purpose: []
