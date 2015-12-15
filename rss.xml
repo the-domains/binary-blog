@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Binary Thinktank // Efficiency, Research, Solution Architecture]]></title>
+        <description><![CDATA[Binary Thinktank // Efficiency, Research, Solution Architecture]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 15 Dec 2015 01:00:06 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[PHP - AWS Raw API connections]]></title>
+            <description><![CDATA[<article><h1>PHP - AWS Raw API connections</h1><h2>Authentication</h2><p>The raw connections to the AWS API with PHP can
+ be a bit tricky sometimes to get the right values. It is very sensitive
+ and the slightest mistake can give you an authentication or signature 
+error. In this post I share code for the main connection methods. They 
+have been minimized to only the necessary code so they are easy to 
+understand and implement into your own application. Most services use 
+very similar code so most of the below you can put into functions for 
+repeat use between services.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c290d7052ed4216687e1f7631f0f07fff06d290e.jpg"></article>]]></description>
+            <link>undefinedphp-aws-raw-api-connections/index.html</link>
+            <guid isPermaLink="false">384dfc3f-928e-4f28-af34-4122cc392413</guid>
+            <pubDate>Tue, 15 Dec 2015 01:00:06 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
