@@ -2,12 +2,13 @@ name: Binary Blog
 favicon: null
 layout_spectrum: 0.33097548387013376
 typography_spectrum: 0.8371074427850544
+title: 'Binary Thinktank // Efficiency, Research, Solution Architecture'
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-18849219-1
   facebook: null
   twitter: null
 opengraph:
